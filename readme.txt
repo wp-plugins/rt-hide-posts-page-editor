@@ -16,6 +16,8 @@ When you set a static page as your site's home page, you can select a different 
 
 This plugin attempts to make this more intuitive by hiding the content editor for the "posts page", and displaying a short notice about the page's special status.
 
+("edit" icon in the header by [Designmodo](https://www.iconfinder.com/designmodo), licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/legalcode))
+
 == Installation ==
 
 Simply install the plugin through your WordPress admin, and activate it. There is nothing to configure.
