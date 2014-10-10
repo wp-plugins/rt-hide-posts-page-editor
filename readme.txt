@@ -42,7 +42,7 @@ Please see [this page on the codex](http://codex.wordpress.org/Creating_a_Static
 
 No. Alle other pages, posts and custom post types (if any) can be edited as usual.
 
-= Does this plugin affect the front-end display of my site?
+= Does this plugin affect the front-end display of my site? =
 
 No, your site - including the posts page - will look the same.
 
